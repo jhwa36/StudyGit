@@ -11,7 +11,7 @@ public class Main2753 {
         } else if (year % 400 == 0) {
             System.out.println("1");
         }else {
-            System.out.println("0");
+            System.out.println("0") ;
         }
     }
 }

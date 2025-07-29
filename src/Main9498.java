@@ -15,7 +15,7 @@ public class Main9498 {
         } else if (a>60) {
             System.out.println("D");
         } else {
-            System.out.println("F");
+            System.out.println("F") ;
         }
     }
 }

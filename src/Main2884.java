@@ -13,7 +13,7 @@ public class Main2884 {
             if (hour == 0) {
                 System.out.println(23 + " " + (60+(min-45)));
             }else {
-                System.out.println((hour-1) + " " + (60+(min-45)));
+                System.out.println((hour-1) + " " + (60+(min-45)) );
             }
         }
     }

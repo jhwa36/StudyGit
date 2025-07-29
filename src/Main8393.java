@@ -9,7 +9,7 @@ public class Main8393 {
 
         for(int i = 0 ; i <= a; i++ ) {
             b+=i;
-            System.out.println(b);
+            System.out.println(b) ;
         }
         System.out.println(b);
 

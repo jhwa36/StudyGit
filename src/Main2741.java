@@ -7,7 +7,7 @@ public class Main2741 {
         int a = sc.nextInt();
 
         for(int i = 0 ; i < a; i ++ ) {
-            System.out.println(i+1);
+            System.out.println(i+1) ;
         }
     }
 }

@@ -16,7 +16,7 @@ public class Main10950 {
 
 //        int T = sc.nextInt();
         for(int i =0; i<T; i++){
-            st = new StringTokenizer(br.readLine(), " ");
+            st = new StringTokenizer(br.readLine(), " ") ;
 //            int a = sc.nextInt();
 //            int b = sc.nextInt();
 
